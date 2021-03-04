@@ -1,0 +1,3 @@
+[submodule "tf-contrib"]
+	path = tf-contrib
+	url = https://github.com/jarakcyc/tf-contrib.git
